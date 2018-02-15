@@ -12,7 +12,9 @@
 
 
 - Second, Rstudio Presenter to prepare a reproducible pitch presentation about the application.
-  - Presentation on Rpubs, [here]()
-  - Resentation script, [here]()
+  - Presentation on Rpubs, [here](http://rpubs.com/Rana-ElRobi/CarFinderApp)
+  - Presentation script using rmd, [here]()
+  - Presentation script using Rpres, [here]()
+  - Rpres html page, [here]()
 
 
