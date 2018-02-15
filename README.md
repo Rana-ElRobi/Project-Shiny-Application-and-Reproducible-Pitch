@@ -13,8 +13,8 @@
 
 - Second, Rstudio Presenter to prepare a reproducible pitch presentation about the application.
   - Presentation on Rpubs, [here](http://rpubs.com/Rana-ElRobi/CarFinderApp)
-  - Presentation script using rmd, [here]()
-  - Presentation script using Rpres, [here]()
-  - Rpres html page, [here]()
+  - Presentation script using rmd, [here](https://github.com/Rana-ElRobi/Project-Shiny-Application-and-Reproducible-Pitch/blob/master/pres.Rmd)
+  - Presentation script using Rpres, [here](https://github.com/Rana-ElRobi/Project-Shiny-Application-and-Reproducible-Pitch/blob/master/car-finder-presentation-script.Rpres)
+  - Rpres html page, [here](https://github.com/Rana-ElRobi/Project-Shiny-Application-and-Reproducible-Pitch/blob/master/car-finder-presentation-script.html)
 
 
