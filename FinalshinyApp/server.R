@@ -19,7 +19,8 @@ shinyServer(function(input, output) {
     # generat sequance data in range between min and max
     disp_seq <- seq(from = input$disp[1], to = input$disp[2], by = 0.1) 
     
-    # Re-shape the data
+    # perform some calculations on the input in server.R
+    # & Re-shape the data
     reshaped.data <- transmute(mtcars,
                       Car = rownames(mtcars),
                       MilesPerGallon = mpg,  
