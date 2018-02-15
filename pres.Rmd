@@ -9,7 +9,7 @@ output:
 ---
 # About App
   
-- Car Finder is user fiendly application, in which:
+- Car Finder is user fiendly [App](https://rana-elrobi.shinyapps.io/Car-Finder-App/), in which:
   - It has many option to fit your needs, like : 
   - Car Type (Manual/Automatic)
   - Number of cylinders
@@ -19,7 +19,8 @@ output:
   
 Also,
 
-- Its is supported with very nice User Manual with screen shots for the app
+- Its is supported with very nice [User Manual](https://github.com/Rana-ElRobi/Project-Shiny-Application-and-Reproducible-Pitch/blob/master/App-Documentation.md) with screen shots for the app
+- Full [code](https://github.com/Rana-ElRobi/Project-Shiny-Application-and-Reproducible-Pitch/tree/master/FinalshinyApp)
 
 ---
 
