@@ -25,12 +25,12 @@ shinyUI(fluidPage(
        checkboxGroupInput('cyl',
                           'Select cylinders number',
                           c("Four"=4, "Six"=6, "Eight"=8),
-                          selected = c(6,8)), 
+                          selected = c(4,8)), 
        sliderInput('disp', 
                    'Displacement', 
                    min=70, 
                    max=480, 
-                   value=c(50,300),
+                   value= c(160,325),
                    step=5),
        numericInput('cost',
                     'Range for Gasoline Price (per gallon)',
@@ -43,11 +43,7 @@ shinyUI(fluidPage(
                     min = 1,
                     max = 500,
                     value = 30)
-       #numericInput('gas', 'Maximum expenditure on gasoline:', 60, min=1, max=1000), 
-
-       #sliderInput('hp', 'Gross horsepower', min=50, max=340, value=c(50,340), step=10), 
        ),
-    
     # Show a plot of the generated distribution
     mainPanel( 
       dataTableOutput('table') 
